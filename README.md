@@ -1,4 +1,6 @@
 - @monnpas
+- Cryptohack: https://cryptohack.org/user/Monnpas/
+- Leetcode: https://leetcode.com/Monnpas/
 - C++, tensorflow, Rust, NTKernel, Active Directory 
 - I’m currently learning to sit still 
 ...
