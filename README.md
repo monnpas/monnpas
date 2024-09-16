@@ -1,11 +1,7 @@
 - @monnpas
-- Cryptohack: https://cryptohack.org/user/Monnpas/
-- Leetcode: https://leetcode.com/Monnpas/
-- C++, tensorflow, Rust, NTKernel, Active Directory 
-- I’m currently learning to sit still 
 ...
-How to reach me ...
-- Fun fact: The greatest award of journalism was named and created in honor of the inventor of contemporary misinformation, recursively making the Pulitzer Price misinformation.
+
+- The greatest award of journalism was named and created in honor of the inventor of contemporary misinformation, recursively making the Pulitzer Price misinformation.
 - After a survey and extensive behavioral data analysis of close to the entirety of Britain's population, Experian concluded that households without a garden did not buy gardening equipement. 
 
 <!---
